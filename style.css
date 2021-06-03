@@ -1,6 +1,6 @@
 
     body {
-  background-color: slateblue;
+  background-color: blue;
 }
 
 h1 {
@@ -14,7 +14,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: pink;
 }
 
 li {
